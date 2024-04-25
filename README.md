@@ -1,3 +1,12 @@
+# Carl contrubuting to GitHub community application passion project
+First time experimenting with GitHub forks and contributing to GitHub community projects. 
+
+New GitHub fork project plans to update the user interface to my personal preferences and updates features to latest 2024 data.
+
+Original application creditted to authors listed below.
+
+
+#Original project README below.
 # LemurNissan
 
 Social media integration prototype for built for the Sacramento Kings' mobile app during the SacHacks 2018 hackathon. 
